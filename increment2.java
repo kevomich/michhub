@@ -10,7 +10,7 @@ public class increment2 {
 
         output = (++inputInteger -2)+3;
 
-        System.out.println("\nOUTPUT IS: "+output);
+        System.out.println("OUTPUT IS: "+output);
 
         inputScanner.close();
 
