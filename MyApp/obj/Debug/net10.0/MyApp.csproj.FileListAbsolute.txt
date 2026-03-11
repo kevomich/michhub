@@ -1,0 +1,15 @@
+C:\REAL JAVA PROJECTS\MyApp\bin\Debug\net10.0\MyApp.exe
+C:\REAL JAVA PROJECTS\MyApp\bin\Debug\net10.0\MyApp.deps.json
+C:\REAL JAVA PROJECTS\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+C:\REAL JAVA PROJECTS\MyApp\bin\Debug\net10.0\MyApp.dll
+C:\REAL JAVA PROJECTS\MyApp\bin\Debug\net10.0\MyApp.pdb
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.dll
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.pdb
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+C:\REAL JAVA PROJECTS\MyApp\obj\Debug\net10.0\ref\MyApp.dll
