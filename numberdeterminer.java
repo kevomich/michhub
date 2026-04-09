@@ -12,12 +12,12 @@ public class numberdeterminer {
             System.out.println("negative");
         }else if(number >0){
             System.out.println("positive");
-        }else
+        }else 
             System.out.println("zero");
         }catch (NumberFormatException e) {
             // If parsing as integer fails, it's a non-integer
             System.out.println("non-integer");
-       }
+       }            
        scanner.close(); 
     }
     

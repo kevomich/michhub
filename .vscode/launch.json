@@ -6,6 +6,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "system",
+            "request": "launch",
+            "mainClass": "system",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "inventoryapp",
+            "request": "launch",
+            "mainClass": "inventoryapp",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "you",
+            "request": "launch",
+            "mainClass": "you",
+            "projectName": "REAL JAVA PROJECTS_d985aa6e"
+        },
+        {
+            "type": "java",
+            "name": "learning",
+            "request": "launch",
+            "mainClass": "learning"
+        },
+        {
+            "type": "java",
             "name": "numberdeterminer",
             "request": "launch",
             "mainClass": "numberdeterminer",

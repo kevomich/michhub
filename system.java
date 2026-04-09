@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class system {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); //if else if statements
         System.out.println("Enter score......");
         int score = scanner.nextInt();
 
